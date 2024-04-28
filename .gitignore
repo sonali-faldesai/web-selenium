@@ -1,0 +1,12 @@
+# Pycharm folder
+.idea/
+
+# VS code folder
+.vscode/
+
+# Results folder
+results/
+
+__pycache__/
+data/__pycache__/
+tests/__pycache__/
